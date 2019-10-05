@@ -29,16 +29,15 @@ These need some subject matter experts to weigh in on.
 
 ### Another persons charity match
 
-Almost all people do not max their charity match, but would be happy to if you gave them the money to donate on your behalf.
+Almost all people do not maximize their charity match, but would be happy to if you gave them the money to donate on your behalf.
 
-We need a grass-roots way of connecting people who want to give their charity match away with effective altruists, prerrably in-person. And standardized ways for attestation (proof of donation) to be given, with that said, if 1 out of 5 people are fraudsters, this still works to great affect in turning 5k to 8k.
+We need a grass-roots way of connecting people who want to give their charity match away with effective altruists, preferably in-person. And standardized ways for attestation (proof of donation) to be given, with that said, if 1 out of 5 people are fraudsters, this still works to great effect in turning 5k to 8k.
 
+Open questions: Is this legally fraud? What kind? What is the statute of limitations on it? Have there been any previous cases of prosecutions for this kind of crime? What was the sentence?
+How can we have proof, preferably straight from the charity, that person X donated Y dollars? How hard is it for someone to get their money back after publically donating on Facebook? What are the ways to verify authenticity of a Facebook donations receipt, bank statement, or e.g. a "your employer matched" benevity email?
 
-Open questions: Is this legally fraud? What kind? What is the statue of limitations on it? Have there been any previous cases of prosecutions for this kind of crime? What was the sentence?
+Could we legally set up a 501c3, such that, we receive money from person A, and funnel person B's money to person A? It seems would probably open the 501c3 up to liability, a decentralized grass-roots movement would be more efficient.
 
-How can we have proof, prefferably straight from the charity, that person X donated Y dollars? How hard is it for someone to get their money back after publically donating on Facebook? What are the ways to verify authenticity of a Facebook donations receipt, bank statement, or e.g. a "your employer matched" benevity email?
-
-Could we legally set up a 501c3, such that, we recieve money from person A, and funnel person B's money to person A? It seems would probably open the 501c3 up to liability, a decentralized grass-roots movement would be more efficient.
 
 ### Software Licenses
 
