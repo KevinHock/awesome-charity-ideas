@@ -6,10 +6,25 @@ A lot of people haven't heard of effective altruism, [Haseeb](https://haseebq.co
 
 ### Referral bonuses
 
+- Expected impact: High
+
 If you have a friend at a company that offers a referral bonus, do not apply through the website, ask your friend if they would like the opportunity to get thousand(s) of dollars to their favorite charity. If they say no, you can easily find someone else at that same company to agree with this. Make sure to do this before going through any recruiters to find a job as well.
 
 
+#### Amazon Smile
+
+- Expected impact: Low
+
+Instead of going to the regular `amazon.com` URL, go to [`smile.amazon.com`](https://smile.amazon.com/), choose a charity (e.g. [GiveWell](https://www.givewell.org/)), and buy things as normal. Amazon will then donate %0.5 percent to your charity (i.e. 5 dollars for every 1000 spent.) Note that you have to remember to do this any time you buy anything on Amazon.
+
+
+Open questions:
+- Can we make a browser extension that redirects all `amazon.com` requests to `smile.amazon.com`?
+- Can we ask any authors of popular browser extensions to do the same?
+
 #### README Badges
+
+- Expected impact: Very Low
 
 A lot of repositories have a ['Buy Me a Coffee'](https://www.buymeacoffee.com/) badge, you can put an e.g. [![AMF](https://img.shields.io/badge/Donate-Charity-orange.svg)](https://www.AgainstMalaria.com/OpenSource) badge for some effective altruism charity. I have linked this one to a campaign that will show if anyone donates to it, as a means of measuring how effective this is.
 
@@ -18,6 +33,8 @@ Open Questions:
 
 
 ### Software Licenses
+
+- Expected impact: Very Low
 
 [Careware](https://en.wikipedia.org/wiki/Careware) has been an idea since the late 80s, the most well-known example being [Vim](http://vimdoc.sourceforge.net/htmldoc/uganda.html#license).
 
@@ -29,13 +46,18 @@ Open questions:
 - Can we email [Bram Moolenaar](https://en.wikipedia.org/wiki/Bram_Moolenaar) and ask him how much money he thinks this has raised so far?
 - Are there unexpected issues with these that explain why almost nobody uses careware licenses?
 - Could one switch an existing GPL licensed project to a GPL-compatible license without legal hassle?
+- Related: Can we email e.g. the Sublime text author, and one day a year, any purchases go to charity? A lot of tech workers could buy Sublime that day and get reimbursed by their company via productivity budget.
 
 
 ### Social Media Campaigns
 
+- Expected impact: Depends
+
 Donating publicly inspires other people to donate as well. Keep in mind that donations made on Facebook will only have [95% of the money go to the charity](https://www.nerdwallet.com/blog/banking/donate-charities-corporations/), you can share links to more efficient methods like https://www.AgainstMalaria.com/OpenSource.
 
 ### [Take the Giving What We Can pledge](https://www.effectivealtruism.org/get-involved/take-the-giving-what-we-can-pledge/)
+
+- Expected impact: High
 
 
 ## Crazy Ideas
@@ -43,6 +65,8 @@ Donating publicly inspires other people to donate as well. Keep in mind that don
 These need some subject matter experts to weigh in on.
 
 ### Another persons charity match
+
+- Expected impact: High
 
 Almost all people do not maximize their charity match, but would be happy to if you gave them the money to donate on your behalf.
 
